@@ -83,4 +83,8 @@ describe('#calculateNumber() with type DIVIDE', () => {
   it('divide -88.5 and -3.6', () => {
     expect(calculateNumber('DIVIDE', -88.5, -3.6)).to.equal(22);
   });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> origin/master

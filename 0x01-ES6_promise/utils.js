@@ -12,4 +12,7 @@ export function uploadPhoto() {
 	  lastName: 'Salva',
 	});
   }
+<<<<<<< HEAD
   
+=======
+>>>>>>> origin/master

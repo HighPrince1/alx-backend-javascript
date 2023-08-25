@@ -33,4 +33,7 @@ jest.config.js
 # Miscellaneous
 *.swp
 *.swo
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master

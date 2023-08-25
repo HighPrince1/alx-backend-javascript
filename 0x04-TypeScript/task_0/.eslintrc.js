@@ -9,4 +9,8 @@ module.exports =  {
 	},
 	rules:  {
 	},
+<<<<<<< HEAD
   };
+=======
+  };
+>>>>>>> origin/master

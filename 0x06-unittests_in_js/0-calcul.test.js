@@ -19,4 +19,8 @@ describe('calculateNumber', () => {
         assert.equal(calculateNumber(1.2, 0.2), 1);
         assert.equal(calculateNumber(3.5, 2.7), 7);
     });
+<<<<<<< HEAD
 })
+=======
+})
+>>>>>>> origin/master

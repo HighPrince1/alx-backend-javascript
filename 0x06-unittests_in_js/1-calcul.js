@@ -16,4 +16,8 @@ function calculateNumber(type, a, b) {
     }
   }
   
+<<<<<<< HEAD
   module.exports = calculateNumber;
+=======
+  module.exports = calculateNumber;
+>>>>>>> origin/master

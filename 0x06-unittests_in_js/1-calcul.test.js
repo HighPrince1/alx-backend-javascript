@@ -83,4 +83,8 @@ describe('#calculateNumber() with type DIVIDE', () => {
   it('divide -88.5 and -3.6', () => {
     assert.equal(calculateNumber('DIVIDE', -88.5, -3.6), 22);
   });
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> origin/master
